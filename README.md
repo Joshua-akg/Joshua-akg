@@ -2,7 +2,7 @@
 
 I'm currently studying Computer Science at the University of Warwick, UK and looking to expand and complement my technical knowledge with practical skills and experience as much as possible.
    
- - 👀 I’m really especially interested in **Web Development** and programming in **Java** and **C**, and  would always like to collaborate👥 on any projects involving them.
+ - 👀 I’m really especially interested in **Web Development** and programming in **Java** and **Python**, and  would always like to collaborate👥 on any projects involving them.
  - 📫 You can reach me via e-mail 
        [![Gmail Badge](https://img.shields.io/badge/-gbengaakingbade3@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gbengaakingbade3@gmail.com)](gbengaakingbade3@gmail.com) 
 or via my LinkedIn 
